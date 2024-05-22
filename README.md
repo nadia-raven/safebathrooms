@@ -25,3 +25,4 @@ Here is the link to the map:
 
 [Our survey](https://cloud.artemisia.earth/apps/forms/s/YdTHPiNYG7YB3E5EWxpSKbdi) is here; if you are transgender, or this work is relevant to you, please take the survey to let us know your thoughts.
 
+[The Overpass API query](https://github.com/nadia-raven/safebathrooms/blob/main/query.overpassql) used for the map at <https://overpass-turbo.eu/s/1LTv>
