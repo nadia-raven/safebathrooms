@@ -1,6 +1,6 @@
 # Safe Bathrooms
 
-This project is especially aimed to help transgender people to find bathrooms that are safe and comfortable to use. We are a team based in Bend, OR, but anyone should be able to use these maps to find and list bathrooms that are **unisex** and **single stall**
+This project is especially aimed to help transgender people to find bathrooms that are safe and comfortable to use, but may apply to anyone looking for a single stall, unisex bathroom. We are a team based in Bend, OR, but anyone should be able to use these maps to find and list bathrooms that are **unisex** and **single stall**
 
 Here is the link to the map:
 
