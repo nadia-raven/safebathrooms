@@ -1,6 +1,6 @@
 # Safe Bathrooms
 
-This project is especially aimed to help transgender people to find bathrooms that are safe and comfortable to use, but may apply to anyone looking for a single stall, unisex bathroom. We are a team based in Bend, OR, but anyone should be able to use these maps to find and list bathrooms that are **unisex** and **single stall**
+This project is especially aimed to help transgender people to find bathrooms that are safe and comfortable to use. We are a team based in Bend, OR, but anyone should be able to use these maps to find and list bathrooms that are **unisex** and **single stall**
 
 Here is the link to the map:
 
@@ -26,3 +26,5 @@ Here is the link to the map:
 [Our survey](https://cloud.artemisia.earth/apps/forms/s/YdTHPiNYG7YB3E5EWxpSKbdi) is here; if you are transgender, or this work is relevant to you, please take the survey to let us know your thoughts.
 
 [The Overpass API query](https://github.com/nadia-raven/safebathrooms/blob/main/query.overpassql) used for the map at <https://overpass-turbo.eu/s/1LTv>
+
+The content of this project itself is licensed under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1), and the underlying source code used to format and display that content is licensed under the [MIT license](https://github.com/nadia-raven/safebathrooms/blob/main/LICENSE).
