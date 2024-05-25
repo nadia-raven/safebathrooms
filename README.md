@@ -8,16 +8,17 @@ Here is the link to the map:
 
 ## How to add Unisex Bathrooms to the Project through OpenStreetMap
 
-1. Go to <http://www.openstreetmap.org>
-2. Click on "Sign Up" in the upper right hand corner
-3. Sign up with your email, enter a name and a password, and click "Sign Up"
-4. Go to your email and click on the confirmation email that you receive
-5. Log in to your account
-6. Find the business or building that you are wanting to edit, and click "Edit" in the top left corner
-7. Click on the building with the bathrooms
-8. On the lefthad panel, scroll down to the "Tags" section, and add a tag at the bottom with "toilets:unisex" on the left and "yes" on the right
-9. On the top right corner, click on the Upload icon, add a description of the edit on the lefthad panel such as "Added a unisex toilet," and click "Upload"
-10. The overpass turbo map such update in an hour or two. Thanks!
+1. Create an account with Open Street Map:
+	1. Go to <http://www.openstreetmap.org>
+	2. Click on "Sign Up" in the upper right hand corner
+	3. Sign up with your email, enter a name and a password, and click "Sign Up"
+	4. Go to your email and click on the confirmation email that you receive
+2. Log in to your account
+3. Find the business or building that you are wanting to edit, and click "Edit" in the top left corner
+4. Click on the building with the bathrooms
+5. On the lefthand panel, scroll down to the "Tags" section, and add a tag at the bottom with "toilets:unisex" on the left and "yes" on the right
+6. On the top right corner, click on the Upload icon, add a description of the edit on the lefthand panel such as "Added a unisex toilet," and click "Upload"
+7. The overpass turbo map such update in an hour or two. Thanks!
 
 ## Project Documents
 
