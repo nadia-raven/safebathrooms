@@ -1,6 +1,6 @@
 # Safe Bathrooms
 
-This project is especially aimed to help transgender people to find bathrooms that are safe and comfortable to use. We are a team based in Bend, OR, but anyone should be able to use these maps to find and list bathrooms that are **unisex** and **single stall**
+This project is aimed to help transgender people to find bathrooms that are safe and comfortable to use. We are a team based in Bend, OR, but anyone should be able to use these maps to find and list bathrooms that are **unisex** and **single stall**.
 
 Here is the link to the map:
 
@@ -22,11 +22,11 @@ Here is the link to the map:
 
 ## Project Documents
 
-[Our Google Sheets spreadsheet](https://docs.google.com/spreadsheets/d/1N9YZ3iT16n6ZQXewD_l4BO0QfzWuJ9yScImTOZmYJww/edit?usp=sharing) shows what we have been working on. If you want to add more businesses that you think should be visited or provide extra information about bathrooms in this area, contact us and we can give you access to edit this file.
+Our [Google Sheets](https://docs.google.com/spreadsheets/d/1N9YZ3iT16n6ZQXewD_l4BO0QfzWuJ9yScImTOZmYJww/edit?usp=sharing) spreadsheet shows what we have been working on. If you want to add more businesses that you think should be visited or provide extra information about bathrooms in this area, contact us and we can give you access to edit this file.
 
-[Our survey](https://cloud.artemisia.earth/apps/forms/s/YdTHPiNYG7YB3E5EWxpSKbdi) is here; if you are transgender, or this work is relevant to you, please take the survey to let us know your thoughts.
+If you are transgender, or this work is relevant to you, please take our [survey](https://cloud.artemisia.earth/apps/forms/s/YdTHPiNYG7YB3E5EWxpSKbdi) to let us know your thoughts.
 
-[The Overpass API query](https://github.com/nadia-raven/safebathrooms/blob/main/query.overpassql) used for the map at <https://overpass-turbo.eu/s/1LTv>
+[The Overpass API query](https://github.com/nadia-raven/safebathrooms/blob/main/query.overpassql) used for the map at <https://overpass-turbo.eu/s/1LTv>.
 
 ## License
 
