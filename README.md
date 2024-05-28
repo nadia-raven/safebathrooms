@@ -20,6 +20,8 @@ Here is the link to the map:
 6. On the top right corner, click on the Upload icon, add a description of the edit on the lefthand panel such as "Added a unisex toilet," and click "Upload"
 7. The overpass turbo map such update in an hour or two. Thanks!
 
+If you want to get more involved with the project, email <safebathrooms@proton.me>.
+
 ## Project Documents
 
 Our [Google Sheets](https://docs.google.com/spreadsheets/d/1N9YZ3iT16n6ZQXewD_l4BO0QfzWuJ9yScImTOZmYJww/edit?usp=sharing) spreadsheet shows what we have been working on. If you want to add more businesses that you think should be visited or provide extra information about bathrooms in this area, contact us and we can give you access to edit this file.
